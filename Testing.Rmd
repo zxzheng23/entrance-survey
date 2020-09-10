@@ -1,0 +1,12 @@
+---
+title: "Entrance Survey"
+author: "Zhixin Zheng"
+date: "9/10/2020"
+output: html_document
+---
+option + cmd + i 
+
+```{r}
+DF <- read.csv("hudk4050-entrance-survey.csv", header = TRUE)
+```
+
